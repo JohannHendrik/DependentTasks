@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6IA5kBAR6f9VY4ByKaq0v92CIRNF1UzE8XypLcTtAAQS8JJQZo9t9RgOQoXErUL3M4HRZyoCADY2kQHNyrnIxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jstrauss\\source\\repos\\Test\\Test\\Test.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://singdevops2:8081/repository/nuget-hosted/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
